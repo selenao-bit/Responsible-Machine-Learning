@@ -2,6 +2,10 @@
 
 This repository contains a full statistical analysis of the COMPAS risk‑assessment system using the public datasets released by ProPublica. The project reproduces and extends key components of ProPublica’s methodology, including data cleaning, exploratory data analysis, logistic regression, Cox proportional hazards modeling, and survival analysis. The goal is to evaluate whether COMPAS scores are distributed fairly across demographic groups and whether the scores meaningfully predict recidivism.
 
+## AI Disclosure
+
+Portions of this project’s documentation and narrative explanations were developed with assistance from Microsoft Copilot. Copilot was used to help draft text, refine wording, and improve the clarity and organization of written sections. All data cleaning, coding, statistical modeling, interpretation of results, and final decisions about the content were independently completed and verified by the author.
+
 ## Overview
 
 COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) is a proprietary algorithm used in courts to estimate a defendant’s likelihood of reoffending. Because these scores influence sentencing, bail, and supervision decisions, it is essential to examine whether the system behaves equitably across racial, gender, and age groups.
