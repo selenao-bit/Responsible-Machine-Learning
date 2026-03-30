@@ -50,7 +50,6 @@ Three complementary explanation methods were used:
 - Large increases in `priors_count` or shifts in `age_factor` are typically required  
 - Patterns are similar across racial groups, though thresholds differ based on baseline features  
 
-
 ## Key Findings
 
 - The model relies heavily on prior criminal history, COMPAS score category, age group, and charge severity.
@@ -59,5 +58,18 @@ Three complementary explanation methods were used:
 - SHAP and LIME show consistent feature importance patterns.
 - DiCE reveals that substantial changes in priors or age category are needed to flip predictions.
 
-## Repository Structure
+## Tools and Libraries
 
+- Python 3.x  
+- scikit‑learn  
+- pandas, numpy  
+- SHAP  
+- LIME  
+- DiCE‑ML  
+- matplotlib  
+
+## AI Assistance Disclosure
+
+Portions of this analysis—including code explanations, Markdown documentation, and the governance
+memo—were drafted with the assistance of Microsoft Copilot. All code, results, and interpretations
+were reviewed and validated by the author.
