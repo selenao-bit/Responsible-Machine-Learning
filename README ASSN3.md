@@ -48,4 +48,7 @@ From the analysis:
 The model over‑predicts risk for Black defendants and under‑predicts risk for White defendants.
 
 ### 4. Visualization
-A grouped bar chart was produced showing
+A grouped bar chart was produced showing FPR and FNR by race, with dashed reference lines for Caucasian error rates. The visualization highlights substantial disparities, particularly the elevated false positive rates for African‑American and Native American defendants.
+
+## AI Assistance Disclosure
+Portions of this README and supporting documentation were drafted with the assistance of Microsoft Copilot. All analysis, code execution, and interpretations were reviewed and verified by the author to ensure accuracy, methodological transparency, and academic integrity.
